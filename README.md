@@ -1,2 +1,2 @@
 # p3ds
-collaborative community effort to "port" persona 3 to the ds
+rules are simple: if you want to contribute, just make a pull request or somethin lol
